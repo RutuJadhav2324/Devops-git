@@ -1,9 +1,9 @@
-version: 0.2 
+ version: 0.2 
 # Set an environment variable that can be used below in the build phases.
  # env is Optional
  env: 
   variables: 
-    INSTANCE_TYPE: "t2.micro"
+   INSTANCE_TYPE: "t2.micro"
  
  phases: 
   install: 
